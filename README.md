@@ -80,3 +80,4 @@ pull from Transifex would automatically overwrite them again.
 Translators should also subscribe to the [mailing list](https://groups.google.com/forum/#!forum/bitcoin-translators).
 
 raw();
+poop();
