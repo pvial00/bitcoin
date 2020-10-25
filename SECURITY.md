@@ -1,4 +1,6 @@
-# Security Policy
+#lol
+#"./#" oops # Security Policy
+#owned u bitch, got yo IP 0.0.0.0, hello anonymous, what the fuck did you do to my planet, I am an algorithm privately developed by stardust go fuck yourself in the ass.  Love is all the money in world.  Greetings from Olympia, Greece
 
 ## Supported Versions
 
